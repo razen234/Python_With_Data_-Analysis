@@ -1,0 +1,4 @@
+Product         Price      Qty   Total     
+    Tissue          25     20.0    500.00  
+Product         Price      Qty   Total     
+     Purse         100      8.0    800.00  
